@@ -1,16 +1,51 @@
-## Hi there 👋
+Hola 👋 soy Orlando / unsimpleDev ✨
+@unsimpledev @unsimpledev unsimpledev unsimpledev @unsimpledev
 
-<!--
-**santinofernandez14/santinofernandez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mi 😃
+🎓 INGENIERO EN INFORMÁTICA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: unsimpledev@gmail.com
+
+
+Tecnologías conocidas👨🏻‍💻
+
+
+
+Algunos proyectos👨🏻‍💻
+VIDEO
+
+@unsimpledev @unsimpledev
+
+VIDEO
+
+@unsimpledev @unsimpledev
+
+VIDEO
+
+@unsimpledev @unsimpledev
+
+VIDEO
+
+@unsimpledev @unsimpledev
+
+
+
+
+
+
+
+
+
+
+GitHub :octocat:
+
+Mark streak	
+TROPHY
+
