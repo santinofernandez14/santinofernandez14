@@ -16,7 +16,7 @@
 
 📝 roles en el ámbito: desarrollador... líder... emprendedor... programador y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **santinofernandez67@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,postman,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,bash,linux" />
   </a>
 </p>
 <br>
