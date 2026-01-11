@@ -7,6 +7,9 @@
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
 <p align="left">
@@ -17,9 +20,7 @@
 📝 roles en el ámbito: desarrollador... líder... emprendedor... programador y en un futuro quién sabe ☺️
 
 📫 Contacto: **santinofernandez67@gmail.com**
-    <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+    
   </p>
   
 
